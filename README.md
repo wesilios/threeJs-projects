@@ -19,6 +19,4 @@ Each folder contains a full Next.js app — with its own pages, configs, and dep
 
 # Author
 Created by Que Nguyen
-
->>>>>>> c769baf (update readme)
 Feel free to fork, learn, and contribute ideas!
